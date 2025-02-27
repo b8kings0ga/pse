@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+numpy>=1.20.0
+scikit-image>=0.19.0
+yt-dlp>=2023.3.4
+python-dotenv>=0.19.0
+pyinstaller>=5.8.0
+pillow>=9.4.0  # For handling icon formats in PyInstaller
+# tkinter is included with standard Python installation on most systems

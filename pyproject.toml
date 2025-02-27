@@ -1,0 +1,14 @@
+[project]
+name = "clipimgfromvideo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.1.0",
+    "pytube>=15.0.0",
+    "scikit-image>=0.25.2",
+    "tk>=0.1.0",
+    "yt-dlp>=2025.2.19",
+]
